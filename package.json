@@ -5,9 +5,7 @@
   "name": "serverless-repro",
   "version": "1.0.0",
   "main": ".eleventy.js",
-  "devDependencies": {
-    "netlify-cli": "^6.14.19"
-  },
+  "devDependencies": {},
   "scripts": {
     "build": "eleventy",
     "dev": "eleventy --serve"
