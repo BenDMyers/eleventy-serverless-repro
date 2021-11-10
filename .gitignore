@@ -1,0 +1,6 @@
+node_modules
+_site
+yarn.lock
+package-lock.json
+netlify/functions/onrequest/**
+!netlify/functions/onrequest/index.js
